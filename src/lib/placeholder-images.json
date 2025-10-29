@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-dashboard",
+      "description": "A modern fintech dashboard for Fusion Pay.",
+      "imageUrl": "assets/hero-dashboard.png",
+      "imageHint": "logo"
+    },
+    {
+      "id": "header-logo",
+      "description": "The main logo for Fusion Pay.",
+      "imageUrl": "assets/logo.png",
+      "imageHint": "logo"
+    },
+    {
+      "id": "notification-icon",
+      "description": "The icon for the sale notification toast.",
+      "imageUrl": "assets/notification-icon.png",
+      "imageHint": "icon"
+    },
+    {
+      "id": "saque-banner",
+      "description": "Banner showing the withdrawal highlight.",
+      "imageUrl": "assets/saque.png",
+      "imageHint": "banner"
+    },
+    {
+      "id": "whatsapp-icon",
+      "description": "WhatsApp contact icon.",
+      "imageUrl": "assets/wpp.png",
+      "imageHint": "social"
+    }
+  ]
+}
