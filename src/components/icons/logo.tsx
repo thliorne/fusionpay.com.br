@@ -7,7 +7,7 @@ export function Logo({ className }: { className?: string }) {
   const logoImage = PlaceHolderImages.find(p => p.id === 'header-logo');
 
   return (
-    <div className={cn("w-auto object-contain h-[26px] md:h-[28px] lg:h-[32px]", className)}>
+    <div className={cn("w-auto object-contain h-[26px] md:h-[28px] lg:h-[32px] -mt-1 md:-mt-2", className)}>
       <Image
         src={logoImage?.imageUrl || "https://i.imgur.com/j0I0NJz.png"}
         alt="Fusion Pay — Confiança para Vender"
