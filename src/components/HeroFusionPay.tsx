@@ -245,7 +245,7 @@ export default function HeroFusionPay() {
       {/* Container */}
       <div className="relative z-10 w-full max-w-[1200px] mx-auto px-6 md:px-8 lg:px-10 grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
         {/* Texto */}
-        <div className="text-white">
+        <div className="text-white flex flex-col items-start gap-4">
           {/* Badge */}
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-white/10 bg-white/5 backdrop-blur-md text-sm text-white animate-fadeIn mt-2">
             <Sparkles className="w-4 h-4 text-fusion-orange" />
