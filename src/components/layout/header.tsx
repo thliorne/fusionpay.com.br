@@ -103,7 +103,7 @@ export function Header() {
                       >
                         <a href="https://app.fusionpaybr.com.br/auth/login">
                           <KeyRound className="mr-2" />
-                          Loginn
+                          Login
                         </a>
                       </Button>
                     </div>
